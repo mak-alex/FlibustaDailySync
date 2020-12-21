@@ -8,6 +8,7 @@ from lxml import html
 from urllib.request import urlopen
 
 
+# todo: не забыть проверить на работоспособность и поправить
 class Flibusta:
     '''A script to synchronize daily archives from website Flibusta
 
